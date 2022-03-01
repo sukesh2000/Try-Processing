@@ -1,4 +1,4 @@
-ProceduralAttempt/.*
-ProceduralAttempt/build
-ProceduralAttempt/gradle
+*/.*
+*/build
+*/gradle
 .DS_Store
