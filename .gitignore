@@ -1,0 +1,4 @@
+ProceduralAttempt/.*
+ProceduralAttempt/build
+ProceduralAttempt/gradle
+.DS_Store
